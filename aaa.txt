@@ -1,3 +1,8 @@
 111122223333
 aa
+repo1
+clone<<<<<<< .mine
 clone
+=======
+repo1
+>>>>>>> .theirs
